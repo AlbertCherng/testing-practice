@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "mocha tests/test_*.js"
+
   },
   "author": "",
   "license": "ISC"
 }
+
+
